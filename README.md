@@ -1,7 +1,7 @@
 # Wearable computing study
 
 This project is my final appointement of "Getting and cleaning data" course
-given by John Hopkins trough coursera.com.
+given by John Hopkins through coursera.com.
 
 
 ###Intial study
